@@ -1,11 +1,11 @@
-# MATHICITY 🧠🔢
+# MATHICITY 
 > **Mathicity is math neuroplasticity.**
 
 Mathicity is a gamified productivity tool designed to transform the abstract journey of learning mathematics into a visible, tangible achievement. Inspired by the principles of **neuroplasticity**, this tool provides a structured environment for deep focus, progress tracking, and long-term retention.
 
 ---
 
-## 🌟 The Vision
+##  The Vision
 I created Mathicity because I wanted to turn the purely abstract nature of learning mathematics into a visible achievement-based experience. By gamifying the learning process, the goal is to encourage "deep focus" sessions that facilitate neural pathways for mathematical logic.
 
 **Key Features:**
@@ -15,14 +15,14 @@ I created Mathicity because I wanted to turn the purely abstract nature of learn
 *   **Spaced Repetition System (SRS):** Add math concepts as flashcards to ensure long-term mastery.
 *   **Knowledge Visualization:** A node-based view of your general progress, making your learning visible rather than abstract.
 
-## 🛠️ How it was Built
+##  How it was Built
 This project is a collaboration between human intent and artificial intelligence. 
 - **Concept & Architecture:** I designed the logic, the gamification rules, and the neuroplasticity-based workflow.
 - **Technical Implementation:** I utilized **Google Gemini** to generate the Python code and handle the technical heavy lifting based on my specific design requirements.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Requirements:
